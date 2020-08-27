@@ -1,0 +1,37 @@
+{
+  "name": "easy-api",
+  "version": "1.0.0",
+  "description": "This repository was created for the purpose of learning new technologies and practices. And also in the future, it will make life easier for those who want to use this API on their front-end.",
+  "main": "server.js",
+  "scripts": {
+    "server": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skyfloow/Easy-API.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "rest",
+    "api",
+    "mongodb"
+  ],
+  "author": {
+    "name": "Bohdan(skyfloow) & Ruslan(airkross)",
+    "git1": "https://github.com/Skyfloow",
+    "git2": "https://github.com/airkross"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skyfloow/Easy-API/issues"
+  },
+  "homepage": "https://github.com/Skyfloow/Easy-API#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "http-errors": "^1.8.0",
+    "mongoose": "^5.10.1"
+  }
+}
